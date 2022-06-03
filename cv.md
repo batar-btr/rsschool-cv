@@ -20,3 +20,17 @@ ___
 * React Js
 * Git
 * Photoshop / Illustrator
+
+### Code Examples
+___
+```
+let fib = n => {
+    if (!fib.cache) {
+        fib.cache = {}
+    }
+    if (!fib.cache[n]) {
+        fib.cache[n] = n < 3 ? 1 : fib(n - 1) + fib(n - 2)
+    }
+    return fib.cache[n]
+}
+```
