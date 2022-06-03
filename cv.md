@@ -34,3 +34,17 @@ let fib = n => {
     return fib.cache[n]
 }
 ```
+### Education
+___
+*Kharkiv National University of Radio Electronics* (2003 - 2008)
+
+Faculty of Computer Engineering and Control
+
+**Specialty**: computer systems and networks
+
+### Work experience
+___
+* Nothing yet...
+
+* Some of my projects on [CodePen](https://codepen.io/btrn/)
+  
