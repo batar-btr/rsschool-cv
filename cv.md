@@ -48,3 +48,8 @@ ___
 
 * Some of my projects on [CodePen](https://codepen.io/btrn/)
   
+### Languages
+___
+* English - A1
+* Ukrainian - Intermediate
+* Russian - Native
