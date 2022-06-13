@@ -254,7 +254,7 @@ h3 {
 }
 
 @media  screen and (max-width: 1220px) {
-    h1 {
+    .main-title {
         padding: 0;
         font-size: 70px;
     }
