@@ -21,3 +21,5 @@
         }
     })
 })()
+
+console.log('Hello again!')
